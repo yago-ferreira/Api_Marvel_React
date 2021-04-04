@@ -9,7 +9,7 @@ Este projeto foi inicializado com [Create React App] (https://github.com/faceboo
 
 ## Scripts Disponíveis
 
-No diretório do projeto, você pode executar:
+No diretório do projeto, você precisa executar os comandos para inicializar o projeto:
 ### `npm install` e `npm start`
 
 Executa o aplicativo no modo de desenvolvimento. \
