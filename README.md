@@ -1,7 +1,6 @@
-## Acesse para visualizar o projeto.
+## Imagem do projeto.
 <p align="center">
-
-https://yago-ferreira.github.io/Api_Marvel_React/
+<img src="https://user-images.githubusercontent.com/54941268/113515121-f07f7180-9548-11eb-8c9c-e2d46365d61a.PNG" /><br>
 </p>
 
 ## Autor
